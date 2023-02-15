@@ -21,7 +21,7 @@ function App() {
                 <a href={`/product/${product.slug}`}>
                   <p>{product.name}</p>
                 </a>
-                <p>soy jhonndel pacific </p>
+                <p>Mi nombre es Jhon Zambrano </p>
                 <p>
                   <strong>${product.price}</strong>
                 </p>
