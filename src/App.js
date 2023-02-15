@@ -21,7 +21,7 @@ function App() {
                 <a href={`/product/${product.slug}`}>
                   <p>{product.name}</p>
                 </a>
-                <p>soy jhonn </p>
+                <p>soy jhonndel pacific </p>
                 <p>
                   <strong>${product.price}</strong>
                 </p>
